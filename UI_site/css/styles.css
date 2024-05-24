@@ -1,0 +1,23 @@
+body {
+    background: white;
+    margin: 0;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+h1 {
+    color: black;
+    font-size: xxx-large;
+    border: 1px solid #ffcccb;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.information_baro_data {
+    height: 200px;
+    font-size: 35px;
+    font-family: 'DM Serif Display', serif;
+    border-color: #ffcccb;
+    border-radius: 15px;
+    background-color: #ffcccb;
+}
+
